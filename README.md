@@ -1,2 +1,19 @@
-# Data-Science-Portfolio
-Business-focused data science portfolio analyzing the Superstore dataset to deliver sales forecasting, customer segmentation, and performance insights with Python, SQL, and dashboards.
+# Data Science Portfolio
+
+This repository contains my data science projects, including data cleaning, exploratory data analysis, machine learning models, and visualizations built using Python.
+
+## Projects
+
+- Superstore Sales Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Machine Learning
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
