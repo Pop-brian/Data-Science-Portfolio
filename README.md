@@ -11,6 +11,7 @@
 Hi, I'm **Brian Kinyanjui Wambuku**, a Computer Science student and aspiring **Data Scientist & AI Engineer** passionate about solving real-world problems using data.
 
 This repository showcases my hands-on data science projects, demonstrating my ability to work through the complete data science lifecycle—from collecting and cleaning data to building predictive models and communicating insights through compelling visualizations.
+This repository showcases my hands-on data science projects, demonstrating my ability to work through the complete data science lifecycle from collecting and cleaning data to building predictive models and communicating insights through compelling visualizations.
 
 My goal is to build scalable, data-driven solutions that create measurable business impact.
 
